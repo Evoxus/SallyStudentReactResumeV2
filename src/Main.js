@@ -6,7 +6,7 @@ import Experience from './components/Experience';
 function Main() {
   return (
     <div>
-      <Address />
+      <Address studentName="Sally Student"/>
       <Education />
       <Experience/>
     </div>
